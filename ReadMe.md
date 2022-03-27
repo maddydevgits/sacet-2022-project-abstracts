@@ -2,6 +2,7 @@
 
 # A - Section
 1. <a href="a-section/1a.pdf">Resume Parser NLP Spacy Python</a><br/><br/>
+2. <a href="a-section/2a.pdf">e-Commerce Website on AWS</a><br/><br/>
 3. <a href="a-section/3a.pdf">Performance Analysis on Student Feedback using ML</a> <br/><br/>
 4. <a href="a-section/4a.pdf">Uber Data Analysis</a><br/><br/>
 5. <a href="a-section/5a.pdf">Real-Time IoT Device Monitoring with Kinesis Data Analytics</a><br/><br/>
