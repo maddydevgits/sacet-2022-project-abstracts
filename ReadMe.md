@@ -1,5 +1,8 @@
 # SACET Projects Abstracts List
 
+# A - Section
+3. <a href="a-section/3a.pdf">Performance Analysis on Student Feedback using ML</a>
+
 # B - Section
 
 2. <a href="b-section/2b.pdf">Peer to Peer Car Polling using Blockchain</a>
