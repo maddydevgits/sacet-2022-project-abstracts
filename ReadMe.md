@@ -1,5 +1,9 @@
 # SACET Projects Abstracts List
 
+# B - Section
+
+5. <a href="b-section/5b.pdf">COVID-19 visualisation and prediction project</a>
+
 # C - Section
 
 1. <a href="c-section/1C-Diabetes Prediction System with Different ML Approaches.pdf">Diabetes Prediction System with Different ML Approaches</a>
