@@ -5,6 +5,7 @@
 5. <a href="b-section/5b.pdf">COVID-19 visualisation and prediction project</a>
 9. <a href="b-section/9b.pdf">Self Supervised Contrastive Learning with NNCLR</a>
 11. <a href="b-section/11b.pdf">Human Activity Recognition using Smart Phones Dataset</a>
+14. <a href="b-section/14b.pdf">Email Spam Detection System</a>
 
 # C - Section
 
