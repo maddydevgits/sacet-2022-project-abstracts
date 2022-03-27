@@ -2,6 +2,7 @@
 
 # B - Section
 
+2. <a href="b-section/2b.pdf">Peer to Peer Car Polling using Blockchain</a>
 5. <a href="b-section/5b.pdf">COVID-19 visualisation and prediction project</a>
 9. <a href="b-section/9b.pdf">Self Supervised Contrastive Learning with NNCLR</a>
 11. <a href="b-section/11b.pdf">Human Activity Recognition using Smart Phones Dataset</a>
