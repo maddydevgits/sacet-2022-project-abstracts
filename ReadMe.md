@@ -4,8 +4,8 @@
 3. <a href="a-section/3a.pdf">Performance Analysis on Student Feedback using ML</a>
 
 # B - Section
-
-2. <a href="b-section/2b.pdf">Peer to Peer Car Polling using Blockchain</a>
+1. <a href="b-section/1b.pdf">Deployment of Python API on AWS</a>
+2. <a href="b-section/2b.pdf">Peer to Peer Car Polling using Blockchain</a> 
 3. <a href="b-section/3b.pdf">Creation Of Pub-Sub Model Based Web Application Using SNS</a>
 4. <a href="b-section/4b.pdf">Building a Serverless Web Application </a>
 5. <a href="b-section/5b.pdf">COVID-19 visualisation and prediction project</a>
