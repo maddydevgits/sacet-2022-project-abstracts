@@ -6,6 +6,7 @@
 4. <a href="a-section/4a.pdf">Uber Data Analysis</a><br/><br/>
 6. <a href="a-section/6a.pdf">3D Image Classification from CT Scan</a><br/><br/>
 7. <a href="a-section/7a.pdf">Sorting of Specific Tweets on Twitter</a><br/><br/>
+14. <a href="a-section/14a.pdf">Text Summarization</a><br/><br/>
 
 # B - Section
 1. <a href="b-section/1b.pdf">Deployment of Python API on AWS</a> <br/> <br/>
