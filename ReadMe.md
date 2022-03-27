@@ -1,6 +1,7 @@
 # SACET Projects Abstracts List
 
 # A - Section
+1. <a href="a-section/1a.pdf">Resume Parser NLP Spacy Python</a><br/><br/>
 3. <a href="a-section/3a.pdf">Performance Analysis on Student Feedback using ML</a> <br/><br/>
 4. <a href="a-section/4a.pdf">Uber Data Analysis</a><br/><br/>
 6. <a href="a-section/6a.pdf">3D Image Classification from CT Scan</a><br/><br/>
