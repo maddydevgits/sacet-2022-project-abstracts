@@ -7,6 +7,7 @@
 6. <a href="a-section/6a.pdf">3D Image Classification from CT Scan</a><br/><br/>
 7. <a href="a-section/7a.pdf">Sorting of Specific Tweets on Twitter</a><br/><br/>
 8. <a href="a-section/8a.pdf">Stock Market Price Prediction using ML</a><br/><br/>
+13. <a href="a-section/13a.pdf">Blockchain Based Agri-Food Supply Chain</a><br/><br/>
 14. <a href="a-section/14a.pdf">Text Summarization</a><br/><br/>
 
 # B - Section
