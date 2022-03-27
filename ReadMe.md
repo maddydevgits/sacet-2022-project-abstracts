@@ -5,19 +5,19 @@
 
 # B - Section
 1. <a href="b-section/1b.pdf">Deployment of Python API on AWS</a> <br/> <br/>
-2. <a href="b-section/2b.pdf">Peer to Peer Car Polling using Blockchain</a> 
-3. <a href="b-section/3b.pdf">Creation Of Pub-Sub Model Based Web Application Using SNS</a>
-4. <a href="b-section/4b.pdf">Building a Serverless Web Application </a>
-5. <a href="b-section/5b.pdf">COVID-19 visualisation and prediction project</a>
-6. <a href="b-section/6b.pdf">Blockchain and Edge Computing Based Secure Framework for Government Tender Allocation </a>
-7. <a href="b-section/7b.pdf">Blockchain Based Event Detection and Trust Verification using NLP and ML</a>
-8. <a href="b-section/8b.pdf">AR 3D Drawing using AR Core</a>
-9. <a href="b-section/9b.pdf">Self Supervised Contrastive Learning with NNCLR</a>
-10. <a href="b-section/10b.pdf">Fake News Detection</a>
-11. <a href="b-section/11b.pdf">Human Activity Recognition using Smart Phones Dataset</a>
-12. <a href="b-section/12b.pdf">Document Management System using AWS </a>
-13. <a href="b-section/13b.pdf">Decentralized Land Agreement Registration using Blockchain</a>
-14. <a href="b-section/14b.pdf">Email Spam Detection System</a>
+2. <a href="b-section/2b.pdf">Peer to Peer Car Polling using Blockchain</a> <br/> <br/>
+3. <a href="b-section/3b.pdf">Creation Of Pub-Sub Model Based Web Application Using SNS</a><br/> <br/>
+4. <a href="b-section/4b.pdf">Building a Serverless Web Application </a><br/> <br/>
+5. <a href="b-section/5b.pdf">COVID-19 visualisation and prediction project</a><br/> <br/>
+6. <a href="b-section/6b.pdf">Blockchain and Edge Computing Based Secure Framework for Government Tender Allocation </a><br/> <br/>
+7. <a href="b-section/7b.pdf">Blockchain Based Event Detection and Trust Verification using NLP and ML</a><br/> <br/>
+8. <a href="b-section/8b.pdf">AR 3D Drawing using AR Core</a><br/> <br/>
+9. <a href="b-section/9b.pdf">Self Supervised Contrastive Learning with NNCLR</a><br/> <br/>
+10. <a href="b-section/10b.pdf">Fake News Detection</a><br/> <br/>
+11. <a href="b-section/11b.pdf">Human Activity Recognition using Smart Phones Dataset</a><br/> <br/>
+12. <a href="b-section/12b.pdf">Document Management System using AWS </a><br/> <br/>
+13. <a href="b-section/13b.pdf">Decentralized Land Agreement Registration using Blockchain</a><br/> <br/>
+14. <a href="b-section/14b.pdf">Email Spam Detection System</a><br/> <br/>
 15. <a href="b-section/15b.pdf">Video Classification with a CNN-RNN Architecture</a>
 
 # C - Section
