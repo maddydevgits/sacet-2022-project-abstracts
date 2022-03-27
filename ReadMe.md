@@ -3,6 +3,7 @@
 # B - Section
 
 5. <a href="b-section/5b.pdf">COVID-19 visualisation and prediction project</a>
+9. <a href="b-section/9b.pdf">Self Supervised Contrastive Learning with NNCLR</a>
 
 # C - Section
 
@@ -10,6 +11,7 @@
 2. <a href="c-section/2C - Setting up Kubernetes Cluster on AWS EC2.pdf">Setting up Kubernetes Cluster on AWS EC2</a> 
 3. <a href="c-section/3C-VR BASED GAME APPLICATION.pdf">VR Based Game Application</a>
 4. <a href="c-section/4C - Content Recommendation System.pdf">Content Recommendation System</a>
+
 5. <a href="c-section/5C-Sentimental Analysis on voice using AWS Comprehend.pdf">Sentimental Analysis on voice using AWS Comprehend</a>
 6. <a href="c-section/6C-Use Computer Vision to Detect Whether a group of people are social distancing.pdf">Use Computer Vision to Detect Whether a group of people are social distancing</a>
 7. <a href="c-section/7C - Hosting a Jenkins Server on AWS.pdf">Hosting a Jenkins Server on AWS</a>
