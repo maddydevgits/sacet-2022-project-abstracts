@@ -3,6 +3,7 @@
 # B - Section
 
 2. <a href="b-section/2b.pdf">Peer to Peer Car Polling using Blockchain</a>
+4. <a href="b-section/4b.pdf">Building a Serverless Web Application </a>
 5. <a href="b-section/5b.pdf">COVID-19 visualisation and prediction project</a>
 6. <a href="b-section/6b.pdf">Blockchain and Edge Computing Based Secure Framework for Government Tender Allocation </a>
 7. <a href="b-section/7b.pdf">Blockchain Based Event Detection and Trust Verification using NLP and ML</a>
