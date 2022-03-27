@@ -9,6 +9,7 @@
 8. <a href="a-section/8a.pdf">Stock Market Price Prediction using ML</a><br/><br/>
 13. <a href="a-section/13a.pdf">Blockchain Based Agri-Food Supply Chain</a><br/><br/>
 14. <a href="a-section/14a.pdf">Text Summarization</a><br/><br/>
+15. <a href="a-section/15a.pdf">Near Duplicate Image Search</a>
 
 # B - Section
 1. <a href="b-section/1b.pdf">Deployment of Python API on AWS</a> <br/> <br/>
